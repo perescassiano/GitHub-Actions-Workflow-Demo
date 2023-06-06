@@ -4,7 +4,7 @@ import userEvent from '@testing-library/user-event';
 
 import MainContent from './MainContent';
 
-// Test
+// Test comment to trigger workflow
 
 describe('MainContent', () => {
   it('should render a button', () => {
